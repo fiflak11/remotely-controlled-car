@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates a remotely controlled car using Arduino and the nRF24L01 wireless communication module. The car can be operated via a remote control, allowing for basic movements such as forward, backward, and turning.
+[video](https://www.youtube.com/shorts/yLSxK3zkbno)
 
 ## Components Used
 - 2 x Arduino Board
@@ -15,7 +16,7 @@ This project demonstrates a remotely controlled car using Arduino and the nRF24L
 ## Circuits Diagrams
 I will add in near future
 
-## Images and video
-![Vehicle](/img/vehicle.img)
-![controller](/img/ontroller.img)
-[Wvideo](https://www.youtube.com/shorts/yLSxK3zkbno)
+## Images
+![Vehicle](../img/vehicle.img)
+![controller](../img/ontroller.img)
+
