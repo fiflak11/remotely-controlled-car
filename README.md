@@ -16,3 +16,6 @@ This project demonstrates a remotely controlled car using Arduino and the nRF24L
 I will add in near future
 
 ## Images and video
+![Vehicle](/img/vehicle.img)
+![controller](/img/ontroller.img)
+[Wvideo](https://www.youtube.com/shorts/yLSxK3zkbno)
