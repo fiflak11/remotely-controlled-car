@@ -18,5 +18,5 @@ I will add in near future
 
 ## Images
 ![Vehicle](/img/vehicle.jpg)
-![controller](/img/ontroller.jpg)
+![controller](/img/controller.jpg)
 
